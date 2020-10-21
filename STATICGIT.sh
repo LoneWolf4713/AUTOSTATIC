@@ -49,3 +49,5 @@ service networking start
 
 
 echo -e "\n \e[1;42mTHE STATIC IP IS SET\e[0m"
+echo -e "\n \e[1;101mIF YOU LIKED THE SCRIPT , BE SURE TO VISIT MY GITHUB REPO AND CONTRIBUTE THERE\e[0m"
+echo -e "\n \e[1mhttps://github.com/LoneWolf4713/AUTOSTATIC\e[0m"
