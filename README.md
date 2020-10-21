@@ -1,7 +1,9 @@
 # AUTOSTATIC
 
 A SIMPLE SCRIPT FOR SETTING A STATIC IP IN LINUX . 
-THIS SCRIPT CHANGES THE "INTERFACES FILE" IN LINUX , WITH YOUR RESPECTIVE VALUES OF NETWORK . 
+
+*TESTED AND FOUND WORKING ON UBUNTU*
+
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTRUCTIONS FOR RUNNING - 
 
@@ -26,6 +28,7 @@ For Newbies , Here is the guide to Use this script properly .
 5 > "Netmask" most probably be like 255.255.255.0 
 
 6 > "Gateway" should be the IP of your Router ( ex 192.168.1.1 )
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
-  This is Just a Simple Script , any suggestions or improvements will highly be valued . 
+  This is Just a Simple Script , any suggestions or improvements will be highly valued . 
