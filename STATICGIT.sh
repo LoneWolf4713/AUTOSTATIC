@@ -8,7 +8,7 @@ echo -e "\e[1;31mWARNING ,  YOUR NETWORK INTERFACES WILL GET DOWN DURING THIS PR
 echo -e "\n \e[35mThis Script will help you to set a static IP in Linux\e[0m"
 echo -e "\n \e[32mEnter the Directory you want to backup  your existing INTERFACES file\e[0m"
 
-#The First Variable for copying the INTERFACES file\
+#The First Variable for copying the INTERFACES file
  
 read copydir 
 cp /etc/network/interfaces $copydir 
