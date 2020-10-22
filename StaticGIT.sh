@@ -86,4 +86,7 @@ echo -e "\n auto $INTERFACE2 \n iface $INTERFACE2 inet static \n address $IP2 \n
 service networking start 
 echo -e "\n \e[1;42mTHE STATIC IP IS SET\e[0m"
 
+echo -e "\n \e[1;43mIF YOU LIKED THE SCRIPT , BE SURE TO SUPPORT ME AT GITHUB\e[0m"
+echo -e "\n \e[1mhttps://github.com/LoneWolf4713/AUTOSTATIC\e[0m"
+
 fi
