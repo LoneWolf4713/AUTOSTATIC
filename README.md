@@ -29,7 +29,7 @@ sudo ./autostatic.sh
 {First Three octets of IP}.255  
 ( ex 192.168.1.255 )
   
-4 > **Network** should be like 
+4 > **Network** should be like
 {First Three Octets Of IP}.0
 ( ex 192.168.1.0 )
   
