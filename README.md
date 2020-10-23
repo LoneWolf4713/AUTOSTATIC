@@ -30,7 +30,7 @@ sudo ./autostatic.sh
 ( ex 192.168.1.255 )
   
 4 > **Network** should be like 
-{First Three Octets Of IP}.0 
+{First Three Octets Of IP}.0
 ( ex 192.168.1.0 )
   
 5 > **Netmask** would most probably be like 255.255.255.0 
