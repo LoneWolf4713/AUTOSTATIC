@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#This is my script with variables . 
 #Some Basic echo commands for Introduction 
 
 echo -e "\n \e[41;1mWARNING RUN ONLY WITH ROOT PRIVS\e[0m"
@@ -54,6 +53,8 @@ if ["$choice"=="n"]
 then 
 service networking start 
 echo -e "\n \e[1;42mTHE STATIC IP IS SET\e[0m"
+echo -e "\n \e[1;43mIF YOU LIKED THE SCRIPT , BE SURE TO SUPPORT ME AT GITHUB\e[0m"
+echo -e "\n \e[1mhttps://github.com/LoneWolf4713/AUTOSTATIC\e[0m"
 else 
 #THE SECOND INTERFACE CONFIGURATION 
 
