@@ -1,6 +1,6 @@
 # AUTOSTATIC
 
-A SIMPLE SCRIPT FOR SETTING A STATIC IP IN LINUX . 
+A SCRIPT FOR SETTING A STATIC IP IN LINUX . 
 
 *TESTED AND FOUND WORKING ON UBUNTU*
  
@@ -11,19 +11,21 @@ A SIMPLE SCRIPT FOR SETTING A STATIC IP IN LINUX .
 ```bash
 git clone https://github.com/LoneWolf4713/AUTOSTATIC
 
+cd AUTOSTATIC
+
 chmod +x autostatic.sh 
 
 sudo ./autostatic.sh 
 ```
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-For Newbies , Here is the guide to Use this script properly . 
+## GUIDE FOR USING SCRIPT PROPERLY . 
 
 1 >"Interface" is the Network Interface you want to set the IP for ( ex - eth0 , eth1 etc .. ) You can find yours by ifconfig .
 
 2 > "IP" is the Static IP you want to set .
 
-3 > "Broadcast Address"  is a IP address on which data is BROADCASTED to everybody , it should be (First Three octets of IP).255  ( ex 192.168.1.255 )
+3 > "Broadcast Address" Should be (First Three octets of IP).255  ( ex 192.168.1.255 )
   
 4 > "Network" should be like (First Three Octets Of IP).0 ( ex 192.168.1.0 )
   
@@ -31,6 +33,8 @@ For Newbies , Here is the guide to Use this script properly .
 
 6 > "Gateway" should be the IP of your Router ( ex 192.168.1.1 )
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-  
-  This is Just a Simple Script , any suggestions or improvements will be highly valued . 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## CONTRIBUTIONS 
+
+Pull requests are welcome. 
+For major changes, please open an issue first to discuss what you would like to change
