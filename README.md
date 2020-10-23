@@ -5,14 +5,14 @@ A SIMPLE SCRIPT FOR SETTING A STATIC IP IN LINUX .
 *TESTED AND FOUND WORKING ON UBUNTU*
 
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-INSTRUCTIONS FOR RUNNING - 
-
-Download Zip or Git Clone this repository 
+##INSTRUCTIONS FOR RUNNING - 
+```bash
+git clone https://github.com/LoneWolf4713/AUTOSTATIC
 
 chmod +x autostatic.sh 
 
 sudo ./autostatic.sh 
-
+```
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For Newbies , Here is the guide to Use this script properly . 
