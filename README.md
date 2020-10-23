@@ -5,7 +5,7 @@ A SIMPLE SCRIPT FOR SETTING A STATIC IP IN LINUX .
 *TESTED AND FOUND WORKING ON UBUNTU*
 
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##INSTRUCTIONS FOR RUNNING - 
+#INSTRUCTIONS FOR RUNNING - 
 ```bash
 git clone https://github.com/LoneWolf4713/AUTOSTATIC
 
