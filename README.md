@@ -25,13 +25,13 @@ sudo ./autostatic.sh
 
 2 > **IP** is the Static IP you want to set.
 
-3 > **Broadcast Address** Should be 
-{First Three octets of IP}.255  
-( ex 192.168.1.255 )
+3 > **Broadcast Address** Should be In This format -
+*{First Three octets of IP}.255* 
+(Ex 192.168.1.255)
   
-4 > **Network** should be like
-{First Three Octets Of IP}.0
-( ex 192.168.1.0 )
+4 > **Network** Should be In this format - 
+*{First_Three_Octets_Of_IP}.0*
+(Ex - 192.168.1.0)
   
 5 > **Netmask** would most probably be like 255.255.255.0 
 
