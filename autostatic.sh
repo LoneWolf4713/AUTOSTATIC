@@ -49,7 +49,7 @@ echo -e "\n auto $INTERFACE \n iface $INTERFACE inet static \n address $IP \n ne
 echo -e "\n \n \e[95mDO YOU WANT TO CONFIGURE ANOTHER INTERFACE? (n/<blank>)"
 read choice 
 
-if ["$choice"=="n"]
+if [ "$choice"=="n" ]
 then 
 service networking start 
 echo -e "\n \e[1;42mTHE STATIC IP IS SET\e[0m"
