@@ -17,6 +17,9 @@ chmod +x autostatic.sh
 
 sudo ./autostatic.sh 
 ```
+
+**ALTERNATIVELY WATCH THE VIDEO TUTORIAL**
+https://youtu.be/OOl9zGUZb6o
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## GUIDE FOR USING SCRIPT PROPERLY . 
